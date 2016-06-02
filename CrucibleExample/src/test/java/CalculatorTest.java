@@ -1,14 +1,10 @@
-package test.java;
-
-import junit.framework.Assert;
-import main.java.Calculator;
-import main.java.MathHelper;
-import main.java.exception.NegativeValueException;
-
 import org.junit.AfterClass;
+import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Ignore;
 import org.junit.Test;
+
+import exception.NegativeValueException;
 
 public class CalculatorTest {
 	

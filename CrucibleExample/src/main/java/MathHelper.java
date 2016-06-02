@@ -1,5 +1,3 @@
-package main.java;
-
 /**
  * Utility class that provides methods for mathematical operations.
  *

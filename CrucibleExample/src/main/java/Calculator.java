@@ -1,8 +1,6 @@
-package main.java;
-
 import java.util.Scanner;
 
-import main.java.exception.NegativeValueException;
+import exception.NegativeValueException;
 
 /**
  * Performs basic arithmetic operations.

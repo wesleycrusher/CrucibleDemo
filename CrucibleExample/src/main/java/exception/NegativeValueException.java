@@ -1,4 +1,4 @@
-package main.java.exception;
+package exception;
 
 /**
  * Exception to indicate that a negative value has occured.
